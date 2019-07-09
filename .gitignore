@@ -1,0 +1,5 @@
+
+.settings/*
+*.sh
+!*.txt
+/aaadir/.class
